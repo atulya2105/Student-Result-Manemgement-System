@@ -1,4 +1,4 @@
-import net.proteanit.sql.DbUtils;
+//import net.proteanit.sql.DbUtils;
 import java.sql.*;
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
@@ -181,7 +181,7 @@ public class allStudent extends javax.swing.JFrame {
 
     private void jTable1ComponentShown(java.awt.event.ComponentEvent evt) {//GEN-FIRST:event_jTable1ComponentShown
         // TODO add your handling code here:
-         try{
+         /*try{
             Class.forName("com.mysql.jdbc.Driver");
             Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/srm","root","Atulya123@");
             Statement st = con.createStatement();
@@ -191,7 +191,7 @@ public class allStudent extends javax.swing.JFrame {
         catch(Exception e){
              JOptionPane.showMessageDialog(null, "Connection Error");
         }
-        jTable1.setEnabled(false);
+        jTable1.setEnabled(false);*/
     }//GEN-LAST:event_jTable1ComponentShown
 
     private void jTable2ComponentShown(java.awt.event.ComponentEvent evt) {//GEN-FIRST:event_jTable2ComponentShown
