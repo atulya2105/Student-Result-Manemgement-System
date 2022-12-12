@@ -80,7 +80,7 @@ create table result(rollnumber varchar(255) primary key, kannada int, english in
 ![image](https://user-images.githubusercontent.com/84077760/207157489-73563193-a327-4e8c-ac7c-5499e07f9745.png)
 
 
-#Thank You!
+# Thank You!
  
  
 
